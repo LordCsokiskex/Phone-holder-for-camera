@@ -9,7 +9,6 @@ https://cad.onshape.com/documents/15ad5c1dedd527403eb1bd40/w/7412d95b1397c3e4343
  <ul>
    
   <li>Print all the STL files.</li>
-  <li>Slide the sliding part onto the screw part.</li>
   <li>Screw the ring onto the screw part.</li>
   <li>Glue together the phone part and the screw part.</li>
 </ul> 
